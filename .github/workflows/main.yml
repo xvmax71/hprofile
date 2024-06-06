@@ -1,4 +1,4 @@
-main: Hprofile Actions 
+name: Hprofile Actions 
 on: workflow_dispatch
 jobs: 
   Testings:
