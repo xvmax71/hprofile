@@ -1,0 +1,9 @@
+main: Hprofile Actions 
+on: workflow_dispatch
+jobs: 
+  Testings:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Testing workflow
+        run: echo "Workflow works !!!!!"
+     
